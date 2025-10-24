@@ -5,7 +5,7 @@ Requirement Analysis is the process of gathering and defining the functions, fea
 3. What should the system do (functional requirements)?
 4. What qualities should the system have (non-functional requirements, such as performance, security, usability)?
 
-# Steps in Requirement Analysis
+# Key Activities in Requirement Analysis
 1. Requirement Gathering:
 Collected from stakeholders like clients, users, managers, and developers using interviews, surveys, questionnaires, workshops, or document reviews.
 
