@@ -35,3 +35,8 @@ Ensuring that the requirements are complete, consistent, feasible, testable, and
 4. Enhances Communication: Creates a common understanding between stakeholders and the development team, reducing misinterpretations.
 5. Ensures Quality and User Satisfaction: Well-defined and validated requirements lead to software that meets user needs and performs reliably.
 6. Facilitates Testing: Requirements act as the basis for creating test cases and validating whether the software works as intended.
+
+# Types of Requirements
+1. Functional requirements: What the system should do (e.g., user login, data processing).
+2. Non-functional requirements: How the system should behave (e.g., response time, security, reliability).
+3. Domain-specific requirements: Industry-specific standards or rules.
