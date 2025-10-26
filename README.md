@@ -40,3 +40,28 @@ Ensuring that the requirements are complete, consistent, feasible, testable, and
 1. Functional requirements: What the system should do (e.g., user login, data processing).
 2. Non-functional requirements: How the system should behave (e.g., response time, security, reliability).
 3. Domain-specific requirements: Industry-specific standards or rules.
+
+# Use Case Diagrams
+A Use Case Diagram is a type of behavioral diagram defined by the Unified Modeling Language (UML). It provides a high-level, graphical view of the system's intended functionality .
+
+Its primary purpose is to illustrate the functional requirements of a system by showing actors (users or other systems) and the use cases (the specific actions or goals they can perform) they interact with. The system's boundary is typically represented by a box that contains the use cases.
+
+# Benefits in Requirement Analysis
+Use Case Diagrams are invaluable during requirement analysis for several reasons:
+    1. Communication: They provide a simple, easily understood way for technical and non-technical stakeholders (like customers, developers, and testers) to agree on the system's scope and functionality.
+    2. Defining Scope: The diagram clearly defines the system boundary, distinguishing what the system will do from what it will not do.\
+    3. Eliciting Requirements: By focusing on the goals of the actors, analysts can more effectively identify and detail the functional requirements necessary to fulfill each use case.
+    4. Planning & Prioritization: They offer a foundation for test cases (each use case should be testable) and help in prioritizing development efforts based on the value and frequency of the use cases.
+
+# Acceptance Criteria
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+
+# How to Define Acceptance Criteria:
+1. Be specific and measurable
+2. Include functional and non-functional aspects.
+3. Example for Booking System: “Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.”
+
+# Benefits of Acceptance Criteria:
+1. Ensure all parties have a clear understanding of feature requirements.
+2. Provide a basis for testing and validation.
+3. Help in maintaining quality and meeting user expectations.
