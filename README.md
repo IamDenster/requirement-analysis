@@ -53,6 +53,9 @@ Use Case Diagrams are invaluable during requirement analysis for several reasons
     3. Eliciting Requirements: By focusing on the goals of the actors, analysts can more effectively identify and detail the functional requirements necessary to fulfill each use case.
     4. Planning & Prioritization: They offer a foundation for test cases (each use case should be testable) and help in prioritizing development efforts based on the value and frequency of the use cases.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0e0e5cde-168a-4308-a573-5c0c977ed53a" />
+
+
 # Acceptance Criteria
 Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
 
